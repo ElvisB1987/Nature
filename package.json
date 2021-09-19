@@ -1,0 +1,23 @@
+{
+  "name": "advanced-css-course-master",
+  "version": "1.0.0",
+  "description": "\"# Nature\" \r \"# Nature\"",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElvisB1987/Nature.git"
+  },
+  "author": "Elvis Balija",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElvisB1987/Nature/issues"
+  },
+  "homepage": "https://github.com/ElvisB1987/Nature#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
